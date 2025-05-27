@@ -8,4 +8,5 @@ Within this project you will find examples of testing:
 * Component state and Redux state
 * Action creators and reducers
 * Complex action creators that use Redux Thunk and Axios
-* Action creators called from connected components
+* Action creators called from connected components## Este proyecto ha sido clonado y modificado por Zhaklina Dobromirova
+esto es un cambio de prueba
