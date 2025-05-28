@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('Identificación') {
             steps {
-                sh 'echo "CD ejecutado por: Zhaklina (eim-alu-69010)"'
+                sh 'echo "CD ejecutado por: Zhaklina (eim-alu-69010) - TEST CAMBIOOO PRUEBAAAAA"'
             }
         }
 
