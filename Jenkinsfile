@@ -14,7 +14,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git branch: 'main',
+                git branch: 'master',
                     url: 'https://github.com/zhaklinaa/Testing-React-Redux-with-Jest-and-Enzyme.git'
             }
         }
